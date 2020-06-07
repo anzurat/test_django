@@ -16,7 +16,7 @@ pylint==2.4.4
 pyowm==2.10.0
 pyTelegramBotAPI==3.6.6
 pytz==2020.1
-requests==2.7.0
+requests==2.20.0
 six==1.13.0
 sqlparse==0.3.1
 telebot==0.0.3
